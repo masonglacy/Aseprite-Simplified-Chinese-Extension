@@ -9,22 +9,21 @@
 
 ## 关于
 
-Just-Eleven 在 [Issue 回复](https://github.com/J-11/Aseprite-Simplified-Chinese/issues/3#issuecomment-1477370090)中表示已不再持续为 Aseprite 跟进维护汉化，因此鲸流使用这个 Fork 来维护自己的 Aseprite 简体中文拓展。
+Just-Eleven 在 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/issues/3#issuecomment-1477370090) 中表示已不再持续为 Aseprite 跟进维护汉化，因此我使用这个 Fork 来维护自己的 Aseprite 简体中文拓展。
 
-鲸流不是专业的翻译者，也没有对各种术语的翻译进行严谨推敲，可以说是对原汉化项目的狗续貂尾，请酌情使用，多多反馈存在的问题。
+我不是专业的翻译者，也没有对各种词条的翻译进行严谨推敲，算是对原汉化项目的狗续貂尾。
 
-
-也可以前往 Steam 社区查阅社区指南：[Steam 社区指南](https://steamcommunity.com/sharedfiles/filedetails/?id=3117755593)
+也可以前往 Steam 社区阅读社区指南：[Steam 社区指南](https://steamcommunity.com/sharedfiles/filedetails/?id=3117755593)
 
 
 
 ### 关于 Aseprite 的内置中文本地化
 
-根据 [Aseprite Translation Project](https://github.com/aseprite/languages)，Aseprite 放弃了此前采用的在官方 Github 仓库收录各路社区翻译的本地化形式，转而使用 [Weblate](https://hosted.weblate.org/projects/aseprite/#languages) 平台托管在线协作翻译项目，并在 Aseprite 中**内置**多语言本地化。
+根据 [Aseprite Translation Project](https://github.com/aseprite/languages) 更新，Aseprite 停止了此前在官方 GitHub 仓库收集各种社区翻译仓库的本地化形式，转而使用 [Weblate](https://hosted.weblate.org/projects/aseprite/#languages) 平台托管在线协作翻译项目，并在 Aseprite 中**内置**了本地化文件。
 
-鲸流厌倦了与其他 Weblate 贡献者不断争论某些词条的最佳翻译，因此将主要精力放在继续维护这个仓库，以便与鲸流的偏好相似的朋友们继续舒适地使用 Aseprite。
+我厌倦了与其他 Weblate 贡献者争论部分词条的最佳翻译，转而自己维护这个仓库，以便与我偏好相似的朋友们继续舒适地使用 Aseprite。
 
-目前 Aseprite 仍然没有为默认主题加入支持中文的内置字体，如果你希望使用内置中文本地化，也可以下载本仓库中提供的添加了**精品点阵体**的 Aseprite 默认主题，让 Aseprite 能够正常显示中文。
+目前 Aseprite 仍然没有为默认主题加入支持中文的字体，如果你希望使用内置的中文本地化，也可以下载本仓库中提供的添加了**精品点阵体**的 Aseprite 默认主题，让 Aseprite 能够正常显示中文。
 
 目前 Aseprite 也更新了在**设置** > **主题** > **自定义主题**中自由更换显示字体的功能，如果希望手动更换字体，推荐下载免费的[**精品点阵体 9×9**](https://github.com/scott0107000/BoutiqueBitmap9x9) 和[**精品点阵体 7×7**](https://github.com/scott0107000/BoutiqueBitmap7x7)，分别以字号 **10** 和字号 **8** 设置为 Aseprite 自定义主题中的**字体**和**迷你字体**，可以获得很不错的显示效果。另外也推荐购买[**丁卯点阵体**](https://dinkiebitmap.com/)，同样有 9px 和 7px 两种设计，非常适合 Aseprite 的界面显示。
 
